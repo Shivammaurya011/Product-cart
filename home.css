@@ -1,0 +1,22 @@
+.outSide{
+    margin: 10% 12% 10% 12%;
+    border: 2px solid whitesmoke;
+    background-color: aqua;
+}
+.inSide{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.carts{
+    margin: 0 2px 25px 2px;
+    display: inline-block;
+    border: 2px solid whitesmoke;
+    background-color: white;
+}
+.button{
+    border-radius: 8px;
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+}
